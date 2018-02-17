@@ -25,7 +25,7 @@ class User extends Membership{
         return "user: ".$this->email;
     }
 }
-$user=new User("mahdi.niknami@gmail.com","123456");
+$user=new User("mahdi.niknami@gmail.com","321654");
 $user->info();
 
 
